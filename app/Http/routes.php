@@ -16,7 +16,7 @@
 // });
 
 Route::get('/',function(){
-	return 'Hello Mazba Bhaia';
+	return 'Hello yasir Bhaia';
 });
 
 Route::get('about',function(){
