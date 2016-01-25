@@ -16,7 +16,7 @@
 // });
 
 Route::get('/',function(){
-	return 'Hello yasir Bhaia';
+	return view('index');
 });
 
 Route::get('about',function(){
